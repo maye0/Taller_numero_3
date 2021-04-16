@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Taller3</string>
+    <string name="add_product">Agregar</string>
+    <string name="dialog_title">Agregar producto</string>
+    <string name="dialog_edit_name">Nombre del producto</string>
+    <string name="dialog_edit_description">Descripcion del Producto</string>
+    <string name="dialog_saveButton">Guardar</string>
+    <string name="Delete_Button">Eliminar</string>
+    <string name="verification_empty_product">El nombre y la descripción son obligatorios</string>
+    <string name="title_delete">Eliminar producto</string>
+    <string name="subtitle_delete">Estas seguro que quieres eliminar este producto</string>
+    <string name="agree">Aceptar</string>
+    <string name="stock_product">En stock: %1$s</string>
+    <string name="cancel">Cancelar</string>
+    <string name="text_titule">PRODUCTOS</string>
+
+</resources>
